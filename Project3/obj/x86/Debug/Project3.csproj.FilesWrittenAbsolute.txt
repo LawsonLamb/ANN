@@ -1,0 +1,15 @@
+/Users/ItBNinja/Projects/Project3/Project3/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ItBNinja/Projects/Project3/Project3/bin/Debug/Project3.exe.mdb
+/Users/ItBNinja/Projects/Project3/Project3/bin/Debug/Project3.exe
+/Users/ItBNinja/Projects/Project3/Project3/obj/x86/Debug/Project3.exe
+/Users/ItBNinja/Projects/Project3/Project3/obj/x86/Debug/Project3.exe.mdb
+/Volumes/PASSPORT/Project3/Project3/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/PASSPORT/Project3/Project3/bin/Debug/Project3.exe.mdb
+/Volumes/PASSPORT/Project3/Project3/bin/Debug/Project3.exe
+/Volumes/PASSPORT/Project3/Project3/obj/x86/Debug/Project3.exe
+/Volumes/PASSPORT/Project3/Project3/obj/x86/Debug/Project3.exe.mdb
+/Users/ItBNinja/Desktop/Project3/Project3/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ItBNinja/Desktop/Project3/Project3/bin/Debug/Project3.exe.mdb
+/Users/ItBNinja/Desktop/Project3/Project3/bin/Debug/Project3.exe
+/Users/ItBNinja/Desktop/Project3/Project3/obj/x86/Debug/Project3.exe
+/Users/ItBNinja/Desktop/Project3/Project3/obj/x86/Debug/Project3.exe.mdb

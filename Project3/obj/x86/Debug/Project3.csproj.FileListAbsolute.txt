@@ -1,0 +1,5 @@
+F:\Project3\Project3\obj\x86\Debug\Project3.exe
+F:\Project3\Project3\obj\x86\Debug\Project3.csprojResolveAssemblyReference.cache
+F:\Project3\Project3\bin\Debug\Project3.exe
+F:\Project3\Project3\bin\Debug\Project3.pdb
+F:\Project3\Project3\obj\x86\Debug\Project3.pdb
